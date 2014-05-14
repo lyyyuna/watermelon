@@ -42,8 +42,8 @@
 
       <div class="starter-template">
         <h1>酒精浓度实时监测</h1>
-        <p class="lead">这只是一个界面展示，还未完工~~~</p>
-	<p> {{name}} </p>
+        <h2 class="lead">当前的酒精浓度为 {{name}}</h2>
+	<p>  </p>
       </div>
 
     </div><!-- /.container -->
